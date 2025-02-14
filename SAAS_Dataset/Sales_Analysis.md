@@ -103,7 +103,7 @@ Filtering Options to refine analysis based on different business needs.
 </figure>
 <br/><br/> 
 
-Link to the [online dashboard](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/5efc2951-bf9d-4d79-9006-76beaccab7ae/views/12da365b-5476-4ad6-a07b-c215a91693e5?directory_alias=Songonge)
+* Link to the [online dashboard](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/5efc2951-bf9d-4d79-9006-76beaccab7ae/views/12da365b-5476-4ad6-a07b-c215a91693e5?directory_alias=Songonge)
 
 
 ## Interpretation of Data
