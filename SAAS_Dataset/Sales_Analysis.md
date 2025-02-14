@@ -98,7 +98,7 @@ Filtering Options to refine analysis based on different business needs.
 4. The dashboard was created, putting all the visuals in one place to easily communicate insights. The figure below shows the dashboard.
 
 <figure>
-  <img src="https://github.com/Songonge/AWS-Projects/blob/main/SAAS_Dataset/Sales_Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/AWS-Projects/blob/main/SAAS_Dataset/Sales_Dashboard.png?raw=true" width=100% height=100% alt="alt text">
   <figcaption>Figure: SAAS Sales Analysis Dashboard</figcaption>
 </figure>
 <br/><br/> 
