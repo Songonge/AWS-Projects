@@ -77,7 +77,7 @@ Amazon QuickSight was used to create an interactive and visually appealing dashb
    * Total Sales
    * Total Profit
 
-2. **Bar Charts ** 
+2. **Bar Charts**  
 Bar charts were used to show Sales and Profit by Product, Industry, Segment, and Region to compare performance.  
    * **For Sales**
      - Sales by Product
