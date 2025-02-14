@@ -43,7 +43,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
 ### Total Loan Amount Over Time
   
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Month.png" width=50% height=50% alt="alt text">
+  <img src="https://github.com/Songonge/AWS-Projects/blob/main/Loan%20Analysis/Amount%20by%20Month.png" width=50% height=50% alt="alt text">
   <figcaption>Figure 1: Total Loan Amount Over Time </figcaption>
 </figure>
 <br/><br/>
@@ -57,7 +57,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
 ### Loan Amount by Grade
   
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Grade.png" width=75% height=75% alt="alt text">
+  <img src="https://github.com/Songonge/AWS-Projects/blob/main/Loan%20Analysis/Amount%20by%20Grade.png" width=75% height=75% alt="alt text">
   <figcaption>Figure 2: Loan Amount by Grade</figcaption>
 </figure>
 <br/><br/>
@@ -69,7 +69,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
 ### Loan Purpose Overview
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Purpose.png" width=75% height=75% alt="alt text">
+  <img src="https://github.com/Songonge/AWS-Projects/blob/main/Loan%20Analysis/Amount%20by%20Purpose.png" width=75% height=75% alt="alt text">
   <figcaption>Figure 3: Loan Amount by Purpose </figcaption>
 </figure>
 <br/><br/>
@@ -82,7 +82,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
 ### State Comparison
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan By State.png" width=75% height=75% alt="alt text">
+  <img src="https://github.com/Songonge/AWS-Projects/blob/main/Loan%20Analysis/Loan%20By%20State.png" width=75% height=75% alt="alt text">
   <figcaption>Figure 4: Total Loan Amount by State</figcaption>
 </figure>
 <br/><br/>
@@ -93,7 +93,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   * By examining loan patterns between states uncovered in the data, opportunities could emerge to tailor financial wellness solutions and messaging to particular audiences.
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan Analysis Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/AWS-Projects/blob/main/Loan%20Analysis/Loan%20Analysis%20Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure 5: Loan Analysis Dashboard</figcaption>
 </figure>
 <br/>
