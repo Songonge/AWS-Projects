@@ -99,7 +99,6 @@ Filtering Options to refine analysis based on different business needs.
 
 <figure>
   <img src="https://github.com/Songonge/AWS-Projects/blob/main/SAAS_Dataset/Sales_Dashboard.png" width=100% height=100% alt="alt text">
-  <img src="" width=100% height=100% alt="alt text">
   <figcaption>Figure: Donation Analysis Dashboard</figcaption>
 </figure>
 <br/><br/> 
