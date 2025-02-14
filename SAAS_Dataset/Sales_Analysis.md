@@ -2,9 +2,9 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-2. [Project Aim](#projectaim)
+2. [Project Aim](#project-aim)
 3. [Project Description](#project-description)
-4. [About the Dataset](#atbout-the-dataset)
+4. [About the Dataset](#about-the-dataset)
 5. [Data Analysis](#data-analysis)
 6. [Data Visualization and Dashboard Development](#data-visualization-and-Dashboard-Development)
 7. [Interpretation of Data](#interpretation-of-data)
@@ -16,7 +16,7 @@ In today’s data-driven business environment, leveraging analytics tools to gai
 The dashboard provides a comprehensive view of key sales metrics, customer demographics, and industry performance, enabling data-driven decision-making.
 
 ## Project Aim
-The aim of this project is to design and implement a Sales Analysis Dashboard that visualizes key performance indicators (KPIs) such as total sales, profit, customer distribution, and industry trends. The dashboard serves as a decision-support tool, helping
+This project aims to design and implement a Sales Analysis Dashboard that visualizes key performance indicators (KPIs) such as total sales, profit, customer distribution, and industry trends. The dashboard serves as a decision-support tool, helping
 stakeholders identify patterns, optimize sales strategies, and enhance profitability.
 
 ## Project Description
@@ -24,7 +24,7 @@ The project involved analyzing SAAS sales data, identifying key business metrics
 financial performance (sales, quantity, discounts, and profits). The final dashboard provides an intuitive interface for monitoring business performance across different dimensions.
 
 ## About the Dataset
-The dataset was downloaded from AWS Skill Builder page while taking the course **Amazon QuickSight - Getting Started**. It contained the following columns:  
+The dataset was downloaded from the AWS Skill Builder page while taking the course **Amazon QuickSight - Getting Started**. It contained the following columns:  
 * _Row ID_: A unique identifier for each row in the dataset
 * _Order ID_: A unique identifier for each order transaction
 * _Order Date_: The date when the order was placed
@@ -87,18 +87,18 @@ Bar charts were used to show Sales and Profit by Product, Industry, Segment, and
 
    * **For Profit**  
      - Profit by Product 
-     - Profit by Industryusing bar charts to compare performance.
+     - Profit by Industry using bar charts to compare performance.
      - Profit by Segment
      - Profit by Region
 
 3. **Line Charts**  
-Line charts were used to show monthly Performance trends for both sales and profit. In addition, forcast was added to predict trend for upcoming months.
+Line charts were used to show monthly Performance trends for both sales and profit. In addition, a forecast was added to predict trends for upcoming months.
 Filtering Options to refine analysis based on different business needs.
 
 4. The dashboard was created, putting all the visuals in one place to easily communicate insights. The figure below shows the dashboard.
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Donation Analysis/Donation Analysis.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/AWS-Projects/blob/main/SAAS_Dataset/Sales_Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: SAAS Sales Analysis Dashboard</figcaption>
 </figure>
 <br/><br/> 
@@ -112,7 +112,7 @@ The dashboard revealed the following key insights:
 1. The total sales amount was $2,297,201.86, with a total profit of $286,397.02.  
 2. Top-performing industries included Finance, Energy, and Manufacturing.
 3. Key revenue-driving products included ContactMatcher, FinanceHub, and Site Analytics.
-4. The SMB segment contributed the highest sales and profit volume, followed by Strategic and Enterprise segments.
+4. The SMB segment contributed the highest sales and profit volume, followed by the Strategic and Enterprise segments.
 5. Sales varied significantly across regions, with AMER leading in revenue generation.
 
 
@@ -120,7 +120,7 @@ The dashboard revealed the following key insights:
 1. Profitability varies by product: Some products showed high sales but lower profit margins.
 2. Regional differences: Certain products performed better, indicating potential for expansion in underperforming regions.
 3. Discounting impact: Analyzing discount rates helped assess whether promotions positively affected overall revenue.
-4. Seasonality in sales – Monthly trends suggested peak sales periods such November and December whiles months with fewer revenues were January and February.
+4. Seasonality in sales – Monthly trends suggested peak sales periods such as November and December while months with fewer revenues were January and February.
 
 
 ## Recommendations
