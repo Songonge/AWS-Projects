@@ -98,7 +98,7 @@ Filtering Options to refine analysis based on different business needs.
 4. The dashboard was created, putting all the visuals in one place to easily communicate insights. The figure below shows the dashboard.
 
 <figure>
-  <img src="https://github.com/Songonge/AWS-Projects/blob/main/SAAS%20Sales%20Analysis/Sales_Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/AWS-Projects/blob/main/SAAS%20Sales%20Analysis/SAAS_Sales_Analysis_Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: Donation Analysis Dashboard</figcaption>
 </figure>
 <br/><br/> 
